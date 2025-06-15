@@ -1,0 +1,33 @@
+[
+    {
+      "title": "Wireless Earbuds Bluetooth 5.3",
+      "price": 29.99,
+      "rating": 4.2,
+      "reviews": 10432
+    },
+    {
+      "title": "Sony WF-C500 Truly Wireless Earbuds",
+      "price": 58.99,
+      "rating": 4.5,
+      "reviews": 8421
+    },
+    {
+      "title": "JBL Vibe Beam True Wireless",
+      "price": 49.95,
+      "rating": 4.4,
+      "reviews": 3285
+    },
+    {
+      "title": "TOZO T6 Wireless Earbuds",
+      "price": 25.99,
+      "rating": 4.3,
+      "reviews": 19876
+    },
+    {
+      "title": "Apple AirPods Pro (2nd Gen)",
+      "price": 199.00,
+      "rating": 4.8,
+      "reviews": 134561
+    }
+  ]
+  

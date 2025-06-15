@@ -1,0 +1,13 @@
+langgraph
+langchain-openai
+datasets
+ipykernel
+huggingface
+openai 
+fastapi
+uvicorn
+faiss-cpu
+httpx
+beautifulsoup4
+python-dotenv
+tqdm
